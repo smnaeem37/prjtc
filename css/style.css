@@ -1,0 +1,68 @@
+*{
+	margin: 0px;
+}
+body{
+	background-image: url(../img/img-1.jpg);
+	background-size: cover;
+}
+.container{
+	width: 450px;
+	margin: 10% auto;
+}
+.login-section{
+	background-color: #7f293e12;
+	padding: 4px 28px;
+}
+.login-section img{
+	height: 200px;
+	width: 200px;
+	margin: 20px auto;
+	display: block;
+}
+.login-section{
+	color: #70e0dced;
+	text-align: center;
+}
+.from-control{
+	width:88%;
+	height: 30px;
+	padding: 10px 10px;
+	border-radius:25px;
+	border:10px #70e0dced;
+}
+.login-btn{
+	background-color: #bf846363;
+	color:#0a0a0a;
+	padding: 10px 30px;
+	font-size:20px;
+	display: block;
+	margin: 0px auto;
+	border-radius: 25px;
+}
+.login-btn:hover{
+	cursor: pointer;
+	background-color:#49ab9cdb;
+	color: #170e0e;
+	box-shadow: 5px 1px 3px #906640d1;
+}
+.frgt-pswrd{
+	text-decoration: none;
+	cursor: pointer;
+	color: white;
+	padding: 0px 150px 0px 0px;
+
+}
+.frgt-pswrd:hover{
+	cursor: pointer;
+	color: #468eab;
+}
+.sign-up{
+	text-decoration: none;
+	cursor: pointer;
+	color:white;
+	padding: 0px 150px 0px 0px;
+}
+.sign-up:hover{
+	cursor: pointer;
+	color: #468eab;
+}

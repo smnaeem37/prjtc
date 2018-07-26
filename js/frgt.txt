@@ -1,0 +1,10 @@
+*{
+	margin: 0px;
+}
+body{
+	background:url(../img/frgt.jpg);
+	background-size: cover;
+}
+.container{
+	
+}

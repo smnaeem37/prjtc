@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+}
+body{
+	background-image: url(../img/img-1.jpg);
+	background-size: cover;
+}
+.container{
+	width: 500px;
+	margin: 10% auto;
+}
+.container h1{
+	text-align: center;
+	color: #f5f5f56e;
+	font-size: 50px;
+	margin-top: 100px;
+}
+.from-control{
+	height: 35px;
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 8px;
+	border-radius: 25px;
+	border: 2px #5a064d42;
+}
+.frgt-pass{
+	background-color: #bf846363;
+	color:#f5f5f56e;
+	padding: 10px 30px;
+	font-size:20px;
+	display: block;
+	margin: 0px auto;
+	border-radius: 25px;
+}
+.frgt-pass:hover{
+	cursor: pointer;
+	background-color:#652c0dc4;
+	color: #080101;
+	box-shadow: 5px 1px 3px #906640d1;
+}

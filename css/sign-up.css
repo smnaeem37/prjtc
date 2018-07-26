@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+}
+body{
+	background-image: url(../img/img-1.jpg);
+	background-size: cover;
+}
+.container{
+	width: 450px;
+	margin: 10% auto;
+}
+.container h2{
+	text-align: center;
+	color: #f5f5f56e;
+	font-size: 50px;
+	margin-top: 100px;
+}
+.from-control{
+	height: 35px;
+	width: 90%;
+	padding: 5px;
+	margin-bottom: 8px;
+	border-radius: 25px;
+	border: 2px #5a064d42;
+}
+.signup-btn{
+	background-color: #bf846363;
+	color:#f5f5f56e;
+	padding: 10px 30px;
+	font-size:20px;
+	display: block;
+	margin: 0px auto;
+	border-radius: 25px;
+}
+.signup-btn:hover{
+	cursor: pointer;
+	background-color:#a57a51d4;
+	color: #170e0e;
+	box-shadow: 5px 1px 3px #906640d1;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>forgot password</title>
+	<link rel="stylesheet" type="text/css" href="css/frgt.css">
+</head>
+<body>
+	<div class="container">
+		<div class="frgt-section">
+			<h2>Forget Passward</h2>
+			<form>
+				<p><i>please</i> enter your Email to recovery your passward</p>
+				<input type="email" name="email" class="frgt-pass"
+				placeholder="Email">
+				<input type="submit" value="continue" class="frgt-pass">
+
+			</form>
+			
+		</div>
+	</div>
+</body>
+</html>
